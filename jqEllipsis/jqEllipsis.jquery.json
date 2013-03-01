@@ -1,11 +1,11 @@
 {
     "name": "jqEllipsis",
     "title": "jqEllipsis",
-    "description": "Plugin to ellipsify (shorten) your text in case it is very long.",
+    "description": "Jquery plugin to ellipsify (shorten) your text in case it is very long.",
     "keywords": [
         "ellipsis"
     ],
-    "version": "1.0.1",
+    "version": "1.0.0",
     "author": {
         "name": "Srikanth Subramanian",
         "url": "https://github.com/srikanthsubramanian/jqEllipsis/blob/master/AUTHORS.txt"
